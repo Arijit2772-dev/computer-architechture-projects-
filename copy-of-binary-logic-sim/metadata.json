@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Binary Logic Sim",
+  "description": "An interactive educational simulator for binary addition logic, featuring Half Adders, Full Adders, and N-Bit Ripple Carry visualization.",
+  "requestFramePermissions": []
+}
